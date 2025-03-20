@@ -14,20 +14,8 @@ O **Parthos** é uma plataforma de gestão de tarefas projetada para trazer orga
 Inspirado em Parthanax, de Skyrim, Parthos simboliza a transformação do caos em organização e a superação de desafios com sabedoria e foco.
 
 ### Como iniciar o projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Gaiteiro2025/parthos-root.git
-   cd parthos-root
-   ```
-2. Instale as dependências:
-   ```bash
-   npm install
-   ```
-3. Inicie o projeto:
-   ```bash
-   npm run start
-   ```
+Para iniciar o projeto siga as intruções no repositório root:
+https://github.com/Gaiteiro2025/parthos-root.git
 
 ### Contribuição
 Contribuições são bem-vindas! Fique à vontade para abrir issues e pull requests.
