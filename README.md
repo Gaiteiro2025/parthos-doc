@@ -17,8 +17,8 @@ Inspirado em Parthanax, de Skyrim, Parthos simboliza a transformação do caos e
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Gaiteiro2025/parthos.git
-   cd parthos
+   git clone https://github.com/Gaiteiro2025/parthos-root.git
+   cd parthos-root
    ```
 2. Instale as dependências:
    ```bash
